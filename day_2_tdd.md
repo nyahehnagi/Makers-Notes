@@ -87,3 +87,7 @@ which is better than
   end
  end
 ~~~~
+
+## My initial thoughts on Pair Programming
+
+Pair programming is fun but also currently rather difficult (for me at least). It's a skill I need to learn through doing a lot more of it. We all have different ways of working and approaches to coding, acquiring information and problem solving.

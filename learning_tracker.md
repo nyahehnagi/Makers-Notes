@@ -9,6 +9,9 @@ Key take away regarding tracking ones learning
 Test Driven Development
   * Ensure to only write the code to pass the test
 
+Pair Programming
+  * Currently feeling a complete novice in this area. But the concept I fully embrace and feel I understand
+
 ## Coding
 
 Use of one line syntax for RSpec
@@ -36,8 +39,8 @@ which is better than
  end
 ~~~~
 
-## Links to What I've done (Evidence)
-https://github.com/nyahehnagi/skills_workshops
-https://github.com/nyahehnagi/boris_bikes
+## What I've done
+* https://github.com/nyahehnagi/skills_workshops
+* https://github.com/nyahehnagi/boris_bikes
 
 
