@@ -19,28 +19,28 @@
 # Test Driven Development (John Forster)
 
 # Goals
-explain why we do TDD
-Describe the steps of a TDD dev process
+* explain why we do TDD
+* Describe the steps of a TDD dev process
 
 # Why are test useful?
-Make sure it works
-Understanding and clarifying the user requirements
-Opportunity to find missing requirements
-Provides confidence when making changes
-Form of documentation
-Test coverage, helps you find non functional code.
-Capture unhappy paths
-Save time in the long run
-help design incrementally
+* Make sure it works
+* Understanding and clarifying the user requirements
+* Opportunity to find missing requirements
+* Provides confidence when making changes
+* Form of documentation
+* Test coverage, helps you find non functional code.
+* Capture unhappy paths
+* Save time in the long run
+* help design incrementally
 
 # Why write tests first
-Structure code and write what's necessary
-Incremental development
-Stick to the specification
-Help with clarity of requirements
-Help think about only one thing at a time.
-Planning ahead and focusing on where you want to be
-Ensuring you have good code coverage
+* Structure code and write what's necessary
+* Incremental development
+* Stick to the specification
+* Help with clarity of requirements
+* Help think about only one thing at a time.
+* Planning ahead and focusing on where you want to be
+* Ensuring you have good code coverage
 
 We ran through a quick exercise to see what the TDD process is.
 
