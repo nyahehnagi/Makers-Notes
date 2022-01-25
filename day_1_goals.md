@@ -55,47 +55,47 @@ Do what works best for you.
 
 ## GOAL DIRECTED LEARNING.
 I can make anything...
-  I can TDD anything
-  I can program fluently
-  I can debug anything
-  I can model anything
-  I can refactor anything
-  I have amethodical approach
+  * I can TDD anything
+  * I can program fluently
+  * I can debug anything
+  * I can model anything
+  * I can refactor anything
+  * I have amethodical approach
 
 I help my teams succeed
-  I use an agile dev process
-  I wrote code that is easy to change
-  I can justify the way I work
-  I grow collaborativel
+  * I use an agile dev process
+  * I wrote code that is easy to change
+  * I can justify the way I work
+  * I grow collaborativel
 
 I am equippewd for long term growth
-  I can learn anything by myself - how to reach out/context/right person
-  I manage my own well being
+  * I can learn anything by myself - how to reach out/context/right person
+  * I manage my own well being
 
 ## Roles and Responsibilities
 
 You
-  Commited and stuck in
-  Ask questions
-  No such thing as a silly question
-  Trusting the process
-  Punctual
-  Self starter
-  feedback/reflect
-  Work towards the goals of the course
+  * Commited and stuck in
+  * Ask questions
+  * No such thing as a silly question
+  * Trusting the process
+  * Punctual
+  * Self starter
+  * feedback/reflect
+  * Work towards the goals of the course
 
 Cohort
-  Respect
-  Helping others
-  showing up on time
-  listening
+  * Respect
+  * Helping others
+  * showing up on time
+  * listening
 
 
 Coach
-  Timely fashion and available
-  Educate/Direct on stuff that is useful
-  Professionalism
-  Correct Guidance, support empower
+  * Timely fashion and available
+  * Educate/Direct on stuff that is useful
+  * Professionalism
+  * Correct Guidance, support empower
 
 
 
