@@ -2,7 +2,7 @@
 
 Within this repo are the notes, learns, evidence and reflections of my time on the Makers Coding Bootcamp
 
-This is by no means a perfect recount and I am in no doubt I will have missed notes, comments, great ideas and thoughts. However I will do the best I can to get as much useful into this repo for my own sake and potentially anyone else who happens to read this
+This is by no means a perfect recount and I am in no doubt I will have missed notes, comments, great ideas and thoughts. However I will do the best I can to get as much useful info into this repo for my own sake and potentially anyone else who happens to read this
 
 The information contained within comprises of the following documents
 
