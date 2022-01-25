@@ -30,20 +30,20 @@ How we are going to do it.
  
 - Why adopt goal-directed learning?
  
-    sense of achievement
-    keep motivated (motivated)
-    breaks it down (focus)
-    if told the answer, doesn't really sink it.
+    * sense of achievement
+    * keep motivated (motivated)
+    * breaks it down (focus)
+    * if told the answer, doesn't really sink it.
  
-    If set goals yourself, you can see how this fits in with everything (monitor progress)
+    * If set goals yourself, you can see how this fits in with everything (monitor progress)
  
-    filters out what you want to target.
-    if you teach yourself and it sinks in... "death by powerpoint"
+    * filters out what you want to target.
+    * if you teach yourself and it sinks in... "death by powerpoint"
  
  
 - What is the difference between being taught and goal-directed learning?
-    individuals have their own goals. Everyone is different .
-    death by powerpoint
+    * individuals have their own goals. Everyone is different .
+    * death by powerpoint
  
 ## Tracking your learning
   - Goal/Plan
