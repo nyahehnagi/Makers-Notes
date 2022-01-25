@@ -45,8 +45,45 @@ Ensuring you have good code coverage
 We ran through a quick exercise to see what the TDD process is.
 
 https://excalidraw.com/#room=321f6ec44e4fab20c9d0,qCZC1K-lsQ-fceG8p88TUQ
+useful tool for knocking up diagrams
 
+# Exercises
+
+## Piggy Bank
 First stab at Test Driven Development with a Piggy Bank
 https://github.com/nyahehnagi/skills_workshops/tree/main/test_driven_development/piggy_bank
 
-Key note to take away - ensure to write the code to pass the test!!
+**Key note to take away - ensure to write the code to pass the test!!**
+
+
+require_relative is used to provide access to local files in the same project
+
+require is generally used to include gems.
+
+## Boris Bikes
+Started on Boris Bikes challenge as a pair programming exercise
+https://github.com/nyahehnagi/boris_bikes
+
+Discovered the use of one line syntax for RSpec
+https://relishapp.com/rspec/rspec-core/v/3-10/docs/subject/one-liner-syntax
+ e.g 
+ ~~~~
+ describe DockingStation do
+  describe "#release_bike" do
+      it { is_expected.to respond_to :release_bike }
+  end
+ end
+ ~~~~
+
+which is better than
+
+~~~~
+ describe DockingStation do
+  describe "#release_bike" do
+    it "should response to the method call release_bike" do
+      docking_station = DockingStation.new
+      expect(docking_station).to respond_to(:release_bike)
+    end
+  end
+ end
+~~~~
