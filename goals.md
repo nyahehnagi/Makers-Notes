@@ -1,6 +1,6 @@
 # GOALS
 
-## Goals Week 1
+## Week 1
 
 * Really understand TDD
 * get my hands dirty and write code which is driven by unit tests
