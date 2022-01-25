@@ -6,16 +6,16 @@ This is by no means a perfect recount and I am in no doubt I will have missed no
 
 The information contained within comprises of the following documents
 
-* ## day_x_description.md 
+* ## `day_x_description.md` 
 
 Raw information captured on a daily basis, it will include notes I take during the day, useful links to sites that may have been of interest and use, links to code repos that I may have worked on and new coding ideas and thoughts that I may have come across.
 
 An example file is day_1_goals.md
 
-* ## learning_tracker.md 
+* ## `learning_tracker.md` 
 
 This will capture my key learning points for each week. I've split this into various sections which include Techniques and Ways of Working, Coding Ideas and Evidence of my work
 
-* ## goals.md
+* ## `goals.md`
 
 This will capture my weekly goals and whether I met them.
