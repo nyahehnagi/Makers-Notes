@@ -56,9 +56,9 @@ https://github.com/nyahehnagi/skills_workshops/tree/main/test_driven_development
 **Key note to take away - ensure to write the code to pass the test!!**
 
 
-require_relative is used to provide access to local files in the same project
+`require_relative` is used to provide access to local files in the same project
 
-require is generally used to include gems.
+`require` is generally used to include gems.
 
 ## Boris Bikes
 Started on Boris Bikes challenge as a pair programming exercise
