@@ -88,6 +88,18 @@ which is better than
  end
 ~~~~
 
+Predicate Matchers in RSpec
+https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/predicate-matchers
+
+This is wrong!
+~~~~
+expect(bike).to be_working? 
+~~~~
+This is right.. Mind the question mark.. you don't need it with predicate matching
+~~~~
+expect(bike).to be_working 
+~~~~
+
 ## My initial thoughts on Pair Programming
 
 Pair programming is fun but also currently rather difficult (for me at least). It's a skill I need to learn through doing a lot more of it. We all have different ways of working and approaches to coding, acquiring information and problem solving.
