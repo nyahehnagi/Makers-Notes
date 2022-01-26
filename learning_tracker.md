@@ -14,6 +14,7 @@ Pair Programming
 
 ## Coding
 
+### RSpec
 Use of one line syntax for RSpec
 https://relishapp.com/rspec/rspec-core/v/3-10/docs/subject/one-liner-syntax
  
@@ -38,6 +39,41 @@ which is better than
   end
  end
 ~~~~
+
+https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/predicate-matchers
+
+This is wrong!
+~~~~
+expect(bike).to be_working? 
+~~~~
+This is right.. Mind the question mark.. you don't need it with predicate matching
+~~~~
+expect(bike).to be_working 
+~~~~
+
+
+Discovered the use of `subject' with RSpec
+
+instead of writing this inside the description of a DockingStation class test..
+
+~~~~
+it "releases a bike that is working" do
+  docking_station = DockingStation.new
+  bike = docking_station.release_bike
+  expect(bike).to be_working 
+end
+~~~~
+
+you can write this.. You can reduce the line count by one as you do not need to explicitly
+instantiate a DockingStation object.
+
+~~~~
+it "releases a bike that is working" do
+  bike = subject.release_bike
+  expect(bike).to be_working 
+end
+~~~~
+
 
 ## What I've done
 * https://github.com/nyahehnagi/skills_workshops
