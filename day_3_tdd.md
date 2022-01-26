@@ -60,3 +60,18 @@ be_between - This looks at ranges
 
 https://www.rubydoc.info/gems/rspec-expectations/RSpec%2FMatchers:be_between
 
+I read testing behaviours rather than state and why
+
+https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/behaviour_not_state.md
+
+Consequently I realised that we had created a test in Boris Bikes that tested the implementation and thus state of the stored bikes in DockingStation.
+
+I've refactored the code to sort that.
+
+## Secret Diary
+
+Started on making the exercise for the Secret Diary 
+
+https://github.com/nyahehnagi/skills_workshops/tree/main/secret_diary
+
+This is learn more about TDD
