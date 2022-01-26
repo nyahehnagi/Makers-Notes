@@ -70,7 +70,7 @@ I've refactored the code to sort that.
 
 ## Secret Diary
 
-Started on making the exercise for the Secret Diary 
+Started on the Secret Diary exercise
 
 https://github.com/nyahehnagi/skills_workshops/tree/main/secret_diary
 
