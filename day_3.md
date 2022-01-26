@@ -19,3 +19,14 @@ it "releases a bike that is working" do
   expect(bike).to be_working 
 end
 ~~~~
+
+* Can ask a coach to observe a pairing session...
+* How much have I practiced on something?
+* What am I unsure of regarding TDD?
+* What process am I following.. am I following a TDD approach. e.g commiting at suitable times
+
+Goal - Plan - Evidence
+
+Ensure goals are SMART - specific, measurable, achievable, relevant and time bound
+
+Get the TDD & Debugging airtable
