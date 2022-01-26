@@ -1,3 +1,5 @@
+# Day 3
+
 discovered the use of `subject' with RSpec
 
 instead of writing this inside the description of a DockingStation class test..
@@ -42,8 +44,19 @@ git is a git! spent a couple of hours working out how to merge, then revert a co
 So what did I learn.. 
 
 `git pull origin main --allow-unrelated-histories`
+
 This enables you pull the remote repo to your local repo irrespective of never being linked in the past
+
 `git revert <commit hash> -m 1 `
+
 This puts you back to a previous commit
+
 `git push --force`
+
 This forces the local repo onto the remote repo
+
+## RSpec - New matcher learnt
+be_between - This looks at ranges 
+
+https://www.rubydoc.info/gems/rspec-expectations/RSpec%2FMatchers:be_between
+
