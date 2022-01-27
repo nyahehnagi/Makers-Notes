@@ -78,6 +78,10 @@ end
 
 Realised I had exposed the implementation and thus the state of my code during the Boris Bike challenge. The code was not cohesive, It's since been refactored. 
 
+## Slack
+
+I know how to make a workflow in Slack
+
 ## What I've done
 * https://github.com/nyahehnagi/skills_workshops
 * https://github.com/nyahehnagi/boris_bikes
