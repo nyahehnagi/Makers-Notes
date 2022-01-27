@@ -74,6 +74,9 @@ it "releases a bike that is working" do
 end
 ~~~~
 
+## Test behaaviour not state!
+
+Realised I had exposed the implementation and thus the state of my code during the Boris Bike challenge. The code was not cohesive, It's since been refactored. 
 
 ## What I've done
 * https://github.com/nyahehnagi/skills_workshops
