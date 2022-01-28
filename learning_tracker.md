@@ -14,6 +14,8 @@ Pair Programming
 
 ## Coding
 
+Learned Ruby!
+
 ### RSpec
 Use of one line syntax for RSpec
 https://relishapp.com/rspec/rspec-core/v/3-10/docs/subject/one-liner-syntax
@@ -82,8 +84,10 @@ Realised I had exposed the implementation and thus the state of my code during t
 
 I know how to make a workflow in Slack
 
-## What I've done
+## What I've done (Evidence)
+* https://github.com/nyahehnagi/ruby_learning
 * https://github.com/nyahehnagi/skills_workshops
 * https://github.com/nyahehnagi/boris_bikes
+* https://github.com/nyahehnagi/skills_learning
 
 
