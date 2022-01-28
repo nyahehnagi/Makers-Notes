@@ -41,3 +41,17 @@ Learnt about code blocks inside expect {} and let.
 Good at sharing and explaining knowledge that I didn't have.
 * **What one thing could I improve on?**
 the lines between naviagtor and driver ended up being a bit blurred at times (also my fault too). Maybe focusing more on delivering each role in a slightly stricter manner?
+
+
+------------------------------------
+
+* **What did we work on together?**
+Boris Bikes challenges 13 and 14
+* **What do you think about the code we wrote together?**
+It worked! I understood most of it and anything I didn't you were great at explaining and allowed me to rephrase it back to you with corrections.
+* **What did you learn from pairing with me today?**
+How to use constants.
+* **What one thing did I do well on?**
+Excellent navigating and telling me what you wanted me to write down. Thank you for your patience on my much poorer navigating.
+* **What one thing could I improve on?**
+Explain what your thought process is before typing so we're both on the same page,
