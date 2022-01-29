@@ -76,6 +76,11 @@ it "releases a bike that is working" do
 end
 ~~~~
 
+Doubles
+The use of let
+allow/receive
+alias'ing subject
+
 ## Test behaaviour not state!
 
 Realised I had exposed the implementation and thus the state of my code during the Boris Bike challenge. The code was not cohesive, It's since been refactored. 
@@ -89,5 +94,6 @@ I know how to make a workflow in Slack
 * https://github.com/nyahehnagi/skills_workshops
 * https://github.com/nyahehnagi/boris_bikes
 * https://github.com/nyahehnagi/skills_learning
+* https://github.com/nyahehnagi/airport_challenge
 
 
