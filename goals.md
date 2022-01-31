@@ -20,3 +20,16 @@ https://github.com/makersacademy/course/blob/main/week_outlines.md
 * get my hands dirty and write code which is driven by unit tests - I've done plenty of that. Very enjoyable. More please
 * break my habit of wanting to write code before the tests! - I feel I am still guilty of moving to my code to soon. I need to further practice the red, green, refactor philosophy
 * improve on my pair programming technique - It's getting better so I have achieved this. However I need to slow down a little based on feedback from my peers.
+
+## Week 2
+* I write code that is easy to change
+
+  Writing easy to change software is highly prized amongst developers and employers. By developers because most of a developer's time is spent changing software. By employers because their teams can deliver value to customers faster.
+
+* I can test-drive my code
+
+  Tested software is easier to change because you can tell when it's broken just by running a command, even the tricky edge cases.
+
+* I can build with objects
+
+  Most code in the world is structured in small pieces called objects. This is done because it is easier to change than having everything in one place.

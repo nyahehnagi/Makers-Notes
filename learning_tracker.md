@@ -17,6 +17,11 @@ Pair Programming
 Learned Ruby!
 
 ### RSpec
+
+use of the change matcher
+
+e.g `expect{ oyster_card.top_up (1) }.to change{ oyster_card.balance }.by 1`
+
 Use of one line syntax for RSpec
 https://relishapp.com/rspec/rspec-core/v/3-10/docs/subject/one-liner-syntax
  
