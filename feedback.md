@@ -55,3 +55,16 @@ How to use constants.
 Excellent navigating and telling me what you wanted me to write down. Thank you for your patience on my much poorer navigating.
 * **What one thing could I improve on?**
 Explain what your thought process is before typing so we're both on the same page,
+
+## Week 2 Feedback
+
+* **What did we work on together?**
+The weekly pairing program to practice TDD emulating an Oyster card
+* **What do you think about the code we wrote together?**
+Very clean, tested and refactored.
+* **What did you learn from pairing with me today?**
+I learned how to rescue an error message and write a feature spec
+* **What one thing did I do well on?**
+Logically thinking through object creations by creating simple tests. Linking and creating gemfile. Writing clear README ans well as a doc to track our progress.
+* **What one thing could I improve on?**
+Could test VScode live share audio next time

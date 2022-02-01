@@ -33,3 +33,7 @@ https://github.com/makersacademy/course/blob/main/week_outlines.md
 * I can build with objects
 
   Most code in the world is structured in small pieces called objects. This is done because it is easier to change than having everything in one place.
+
+  * I want to use dependancy injection in the code I write
+  * I want to make use of polymophism in the code I write through the use of duck typing.
+  * Strive for SRP

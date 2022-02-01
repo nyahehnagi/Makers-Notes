@@ -18,3 +18,11 @@
 Did a code review on my pair's code.
 
 started working on weekly OysterCard challenge
+
+I furthered my knowledge of dependancy injection - including ways of doing so e.g
+* Directly passing in an object
+* Imprezzo : Of Class e.g MyClass(other_class = MyOtherClass)
+* You can perform injection through 
+  - constructor injection - for when a class needs the object to work properly - spans multiple methods
+  - method injection - use once only applications
+  - property injection - generally bad to use
