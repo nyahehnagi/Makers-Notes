@@ -17,6 +17,8 @@ Pair Programming
 Learned Ruby!
 
 ### RSpec
+Good site for writing good specs
+https://www.betterspecs.org/
 
 use of the change matcher
 

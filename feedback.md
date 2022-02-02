@@ -1,6 +1,6 @@
 # Feedback
 
-## Week 1
+## Week 1 Feedback
 
 * **What did you learn from pairing with me?**
 To spot obvious rows of code where bugs might lie and to google for unknown methods
@@ -68,3 +68,26 @@ I learned how to rescue an error message and write a feature spec
 Logically thinking through object creations by creating simple tests. Linking and creating gemfile. Writing clear README ans well as a doc to track our progress.
 * **What one thing could I improve on?**
 Could test VScode live share audio next time
+
+* **What did we work on together?**
+Oystercard pairing exercise 9-11
+* **What do you think about the code we wrote together?**
+Works well and implementing feature spec helped us both break down the user story better.
+* **What did you learn from pairing with me today?**
+I gained a better understanding of when to use doubles.
+* **What one thing did I do well on?**
+Using TDD well by methodically working on the current failing test rather than focusing on other errors that can surface when making changes.
+* **What one thing could I improve on?**
+As driver, on occasion I needed to refresh my understanding. Perhaps we could have made a few more pauses to check we are still on the same train of thought.
+
+
+* **What did we work on together?**
+Oystercard challenge
+* **What do you think about the code we wrote together?**
+Pretty awesome
+* **What did you learn from pairing with me today?**
+How to implement include correctly into rspec and how to create a shared_context.
+* **What one thing did I do well on?**
+Having a good explanation for the questions I asked
+* **What one thing could I improve on?**
+Nothing I can think of

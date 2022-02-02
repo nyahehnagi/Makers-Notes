@@ -14,4 +14,8 @@ https://github.com/nyahehnagi/oystercard
 
 I have also started on the weekend challenge early. More because I need the weekend to look after children than anything else.
 
+This is a good resource for spec writing
+https://www.betterspecs.org/
+
+
 Currently more due to my appetite for learning new information I am also doing 11 hour days.. 8 during the day and 3 at night. Fortuantely I am loving what we are doing.
