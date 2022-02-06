@@ -37,3 +37,15 @@ https://github.com/makersacademy/course/blob/main/week_outlines.md
   * I want to use dependancy injection in the code I write
   * I want to make use of polymophism in the code I write through the use of duck typing.
   * Strive for SRP
+
+  ## Did I reach my goals?
+
+  Again, kind of.
+
+  I can write code that is relatively easy to change, but when I went to change some of it, it was not easy.. so more practice needed
+
+  test driving my code is definitely a work in progress. I tried to do that with the Takeaway challenge but I found myself coding before testing. Some of it I feel is I don't have the knowledge of what I am meant to be testing. A case in point here was the SMS testing. I wrote the code as I wrote the tests and updated the tests later on as I became more aware of how to stub. Next time I think I';ll write tests without stubbing and refactor later
+
+  I incorporated dependancy injection into my Takeaway challenge and also popped a polymorphic object in with the Messsenger class.
+
+  As for SRP, in the most part yes, I need to get the code reviewed. Again practice practice, practice

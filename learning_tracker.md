@@ -12,9 +12,15 @@ Test Driven Development
 Pair Programming
   * Currently feeling a complete novice in this area. But the concept I fully embrace and feel I understand
 
+SRP! Single Responsibility Principle
+
+
 ## Coding
 
 Learned Ruby!
+
+Dependancy injection
+Delegate 
 
 ### RSpec
 Good site for writing good specs
@@ -88,7 +94,18 @@ The use of let
 allow/receive
 alias'ing subject
 
-## Test behaaviour not state!
+class_doubles
+
+ let(:twilio_client_class) { class_double("Twilio::REST::Client") } 
+~~~~
+  it "raises an error when not successful in sending an SMS" do
+    stub_const('Twilio::REST::Client', twilio_client_class)
+    allow(twilio_client_class).to receive(:new).and_return(failed_twilio_client)
+    expect { twilio_sms.send(from, to, body) }.to raise_error "Failed to send SMS"
+  end
+~~~~
+
+## Test behaviour not state!
 
 Realised I had exposed the implementation and thus the state of my code during the Boris Bike challenge. The code was not cohesive, It's since been refactored. 
 
@@ -102,5 +119,5 @@ I know how to make a workflow in Slack
 * https://github.com/nyahehnagi/boris_bikes
 * https://github.com/nyahehnagi/skills_learning
 * https://github.com/nyahehnagi/airport_challenge
-
+* https://github.com/nyahehnagi/takeaway-challenge
 
