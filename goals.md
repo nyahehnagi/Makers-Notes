@@ -49,3 +49,14 @@ https://github.com/makersacademy/course/blob/main/week_outlines.md
   I incorporated dependancy injection into my Takeaway challenge and also popped a polymorphic object in with the Messsenger class.
 
   As for SRP, in the most part yes, I need to get the code reviewed. Again practice practice, practice
+
+  ## Week 3
+
+  * Build a simple web app
+  * Follow an effective debugging process for web applications
+  * Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+  * Explain the MVC pattern
+
+  
+
+  

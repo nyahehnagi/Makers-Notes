@@ -19,10 +19,13 @@ SRP! Single Responsibility Principle
 
 Learned Ruby!
 
+I can write a basic web site that has been test driven!
+Post, Redirect, Get pattern
+
 Dependancy injection
 Delegate 
 
-### RSpec
+## RSpec
 Good site for writing good specs
 https://www.betterspecs.org/
 
@@ -118,6 +121,9 @@ I know how to make a workflow in Slack
 * https://github.com/nyahehnagi/skills_workshops
 * https://github.com/nyahehnagi/boris_bikes
 * https://github.com/nyahehnagi/skills_learning
+
+
 * https://github.com/nyahehnagi/airport_challenge
 * https://github.com/nyahehnagi/takeaway-challenge
+* https://github.com/nyahehnagi/rps-challenge
 

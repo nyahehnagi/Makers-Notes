@@ -91,3 +91,39 @@ How to implement include correctly into rspec and how to create a shared_context
 Having a good explanation for the questions I asked
 * **What one thing could I improve on?**
 Nothing I can think of
+
+## Week 3 Feedback
+
+* **What did we work on together?**
+Intro to HTTPS & Sinatra
+* **What do you think about the code we wrote together?**
+Good - basic at this stage, but does the task required.
+* **What did you learn from pairing with me today?**
+The information was generally quite new to both of us do - HTTPs & Sinatra basics were good to get to grips with.
+* **What one thing did I do well on?**
+Making sure we both thoroughly understood the concepts before we moved on
+* **What one thing could I improve on?**
+We both could probably have been better at delineating the driver/navigator roles, and better at structuring our session around breaks.
+
+* **What did we work on together?**
+Setting up the infrastructure to create a web app with Ruby, Sinatra and the CapyBara feature test framework.
+* **What do you think about the code we wrote together?**
+We went through the CapyBara syntax by solving a testing challenge. Then we started setting up views and app files for the "Battle" game. We got stuck at an error that ultimately was only due to a wrongly named folder, but this allowed us to apply loads of debugging processes.
+* **What did you learn from pairing with me today?**
+Using CapyBara from the command line to test a webpage's behaviours.
+Debugging techniques.
+* **What one thing did I do well on?**
+You did well in explaining how the various components of the web app were supposed to interact, and how our first test was supposed to be acting. I also enjoyed the first part of the session when we were just testing out the various functionalities of CapyBara.
+* **What one thing could I improve on?**
+Sometimes I found it difficult to follow what was happening on your screen because there were quite a few files being written, deleted and edited simultaneously. But I could follow most of the time - and whenever I felt I was getting lost, I just asked you for a clarification, and you provided it, so that's all good. What I recommend is from time to time to ask the partner something like "are you with me?" , just in case they are getting lost but don't dare interrupting your thought processes.
+
+* **What did we work on together?**
+The battle challenge - beginning to test webpages.
+* **What do you think about the code we wrote together?**
+The code was well structured and I think that it is readable by others.
+* **What did you learn from pairing with me today?**
+Session variables and how useful they are. I also learnt about how to set up a basic test for a website.
+* **What one thing did I do well on?**
+You were willing to go at a pace where I was able to follow, thanks for that.
+* **What one thing could I improve on?**
+This is really tricky, I don't really think there was anything you could have improved on.
