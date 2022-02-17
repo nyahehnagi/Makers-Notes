@@ -19,11 +19,15 @@ SRP! Single Responsibility Principle
 
 Learned Ruby!
 
-I can write a basic web site that has been test driven!
-Post, Redirect, Get pattern
-
-Dependancy injection
-Delegate 
+- I can write a basic web site that has been test driven!
+- Post, Redirect, Get pattern
+- Dependancy injection
+- Delegate 
+- RESTful routes
+- Database connection classes
+- Wrapping database data into program objects
+- Class methods (self.)
+- Instance methods
 
 ## RSpec
 Good site for writing good specs
