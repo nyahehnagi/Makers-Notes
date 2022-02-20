@@ -1,5 +1,7 @@
 Attended a process workshop. I did the Leap Year exercise.
 
+Attended workshop using the Extract Class pattern
+
 Overall an interesting experience as I was being watched for 30 mins while I worked through a TDD approach design and build of the leap_year method
 
 Key feedback on this was regarding not reading an error message properly and Not using IRB enough

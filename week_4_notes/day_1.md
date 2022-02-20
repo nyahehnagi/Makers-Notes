@@ -35,10 +35,13 @@ https://github.com/makersacademy/course/blob/main/bookmark_manager/learning_obje
 
 
 ## PostgresSQL
-getting to the psql prompt
+getting to the psql prompt as postgres superuser
 
 `sudo -u postgres psql`
 
+getting to psql as myself.. needs a database
+
+`psql -U bromley chitter`
 
 Check if postgres 
 
@@ -56,3 +59,5 @@ Start a server (version, name)
 https://mydbanotebook.org/post/troubleshooting-01/
 
 https://www.cybertec-postgresql.com/en/postgresql-on-wsl2-for-windows-install-and-setup/
+
+https://www3.ntu.edu.sg/home/ehchua/programming/sql/PostgreSQL_GetStarted.html
