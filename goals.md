@@ -15,7 +15,7 @@ https://github.com/makersacademy/course/blob/main/week_outlines.md
 * break my habit of wanting to write code before the tests!
 * improve on my pair programming technique
 
-# Did I reach my goals?
+Did I reach my goals...
 * Really understand TDD - I feel I have an understanding. do I really understand it? Not yet,  I feel I am let down with my knowledge of the testing framework and also knowledge in terms of constructing a good test.
 * get my hands dirty and write code which is driven by unit tests - I've done plenty of that. Very enjoyable. More please
 * break my habit of wanting to write code before the tests! - I feel I am still guilty of moving to my code to soon. I need to further practice the red, green, refactor philosophy
@@ -38,7 +38,7 @@ https://github.com/makersacademy/course/blob/main/week_outlines.md
   * I want to make use of polymophism in the code I write through the use of duck typing.
   * Strive for SRP
 
-  ## Did I reach my goals?
+Did I reach my goals...
 
   Again, kind of.
 
