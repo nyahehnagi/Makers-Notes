@@ -123,11 +123,11 @@ I know how to make a workflow in Slack
 ## What I've done (Evidence)
 * https://github.com/nyahehnagi/ruby_learning
 * https://github.com/nyahehnagi/skills_workshops
-* https://github.com/nyahehnagi/boris_bikes
 * https://github.com/nyahehnagi/skills_learning
 
 
 * https://github.com/nyahehnagi/airport_challenge
 * https://github.com/nyahehnagi/takeaway-challenge
 * https://github.com/nyahehnagi/rps-challenge
+* https://github.com/nyahehnagi/chitter-challenge
 

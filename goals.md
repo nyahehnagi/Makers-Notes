@@ -57,6 +57,32 @@ https://github.com/makersacademy/course/blob/main/week_outlines.md
   * Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
   * Explain the MVC pattern
 
+  Did I reach them.. I feel I have. Working with a web app was totally new to me and the weekend challenge consolidated my understanding. The weekend challenge was rock paper scissors which really helped in wrapping my head around routing and the use of the MVC pattern
+
+  ## Week 4
+
+  * Build a simple web app with a database
+  * Follow an effective debugging process for database applications
+  * Explain the basics of how databases work (e.g. tables, SQL, basic relationships between tables)
+
+  Met the goals? This week, absolutely and some. It was a good week
+
+  Big step up this week as databases were introduced. This was also a big week for me as I became aware of the use of REST. Fortunately I have had some experience with databases in the past, so the use of SQL was not unfamaliar. What was a game changer was the use of REST, all of a sudden web apps and routing became so much more organised. If I had know about REST in last weeks RPS challenge the code would have been much cleaner. 
+
+  The weekend challenge I went to town on and added all manner of cool functionalilty including logon, authentication, flash messaging, encryption and a rakefile. I tried to get the app on to Heroku but that did not work... 
+
+  One thing that did not sit well was all the database code sitting in the model... I then discovered ORM.. that is for next week though
+
+  ## Week 5
+
+  By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
+
+  * Break down projects into tasks and allocate them to pairs
+  * Build to a specification (rather than challenges)
+  * Run stand-ups and retrospectives
+  * Use a branch/PR/merge git workflow
+  * Give and receive meaningful code review
+
   
 
   
