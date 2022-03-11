@@ -127,3 +127,93 @@ Session variables and how useful they are. I also learnt about how to set up a b
 You were willing to go at a pace where I was able to follow, thanks for that.
 * **What one thing could I improve on?**
 This is really tricky, I don't really think there was anything you could have improved on.
+
+# External Review Feedback
+
+Scorecard
+Exercise: School results
+Reviewer: Pierre Roodman
+No show?: No
+Language: Ruby
+## I use an agile process
+Rating: Steady
+You have done a very good job of gathering the requirements and your use of the README.md helped to clarify any assumptions that were being made about what the expected output would be for a given input.
+
+This helped you to encode the acceptance criteria into your code by using the examples as a basis for your tests.
+
+I would, however, suggest using table format for the example inputs and outputs as this just makes it easier to read at a glance.
+
+
+## I can model anything
+Rating: Steady
+You modelled your solution with a single method within a class. This was a simple enough place to start and also left your program open to expansion for any future additions to the features. By starting with a single method, you left your algorithm open to adding methods later when refactoring in order to keep your main method adhering to the single-responsibility principle.
+
+You also stuck to Ruby naming conventions, naming your methods in snake_case and including verbs in the name that make them actionable. You used PascalCase for your class name with a noun as a name.
+
+Your algorithm was moving in the right direction and you explained to me when the session was finished how you would attempt to move onwards from where you were. The explanation that you gave showed that you had a reasonable idea of how to progress.
+
+
+## I can TDD anything
+Rating: Steady
+You are creating tests that are testing the behaviours of the program in terms of the inputs and expected outputs. This led to a relatively good outside-in approach which started with hardcoding the return values and from there slowly growing the algorithm as you introduced test cases that were iteratively scaling up in complexity and slowly built up the algorithm in a manner that introduced small transformations to the algorithm at a time.
+
+You were able to start doing method extraction which was a great way to remove repetition in your code. You adhered relatively closely to the RGR cycle but skipped a refactor phase early in the development process which could have removed the hardcoded returns and generalised the algorithm for those simple test cases.
+
+
+## I can program fluently
+Rating: Steady
+You have a relatively good understanding of how to use the terminal and set up your development environment and testing framework. You also have fluency in Ruby syntax and language constructs.
+
+
+You have a good idea of what you are meant to do in order to get the problem solved and were on your way to doing so in an iterative manner. I would just suggest that perhaps you practise similar exercises to this one on a website such as CodeWars, just to get used to solving similar types of problems that require string processing and also to practice your TDD.
+
+
+## I can refactor anything
+Rating: Steady
+You are refactoring your code, but I would suggest doing so on every refactor phase in order to make sure that each iteration of the RGR cycle produces clean, generalised code where possible. It is better to refactor sooner rather than later in order to avoid complex refactoring later on that introduces bugs to your code.
+
+
+## I can debug anything
+Rating: Strong
+You have shown an ability to read your error messages properly and examine the backtrace in order to get a good idea of what is causing bugs to occur. You also use puts statements in order to get visibility into how the code is behaving and thereby form a feedback loop that helps you to reduce the scope of where the bug is occurring.
+
+## I write code that is easy to change
+Rating: Steady
+You had your test suite properly decoupled from your implementation by making sure the tests were based solely on acceptance criteria, and not reliant on the current implementation. This makes changes to the code much easier as they will not break your test suite.
+
+You have used sensible names for your variables, methods and class and they represented well what was contained in the variables and what methods were used for, thereby increasing readability which subsequently also makes code easier to change.
+You have not made regular use of Git, committing whenever tests pass on Green or refactor phases. Doing so ensures that you have a working history of your code and that any rollbacks will return the working code. This also allows you the opportunity to keep a record of changes to your code which can assist the client with keeping track of the progress made with the program.
+
+
+## I have a methodological approach to problem solving
+Rating: Improving
+You have prioritised core cases over edge cases which is a good way to provide immediate value to a client.
+
+For the most part, you follow the RRGR cycle quite well, but as already mentioned, you did skip refactoring code in the early refactor phases.
+
+The following checklist may help you while you are still refining this process.
+
+Write a failing test.
+Did you run the test?
+Did it fail?
+Did it fail because of an assertion?
+Did it fail because of the last assertion?
+Make all tests pass by doing the simplest thing that could possibly work.
+Consider the resulting code. Can it be improved through refactoring? If so, do it, but make sure that all tests still pass.
+Ask yourself the question, ‘what is my code currently assuming’ and think of the next simple test that will break that assumption and introduce a new failing test.
+Repeat
+
+I also suggest looking at the following resources in order to get a better idea of what this process looks like.
+
+https://www.youtube.com/watch?v=QbNhpPQkCBs
+
+https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
+
+
+## I can justify the way I work
+Rating: Steady
+You were vocal throughout the session, which helped me understand your thought process. However, you deviated from your process quite a few times and did not justify those deviations. These deviations include partially testing your output and not following test-driven development. I recommend that you provide sound justifications grounded in the process you’ve learnt at Makers for an effective development workflow.
+
+
+## General feedback
+Well done on a good first review. You have shown a good understanding of behaviour-first testing. I suggest that you try to be a bit more comprehensive with refactoring code and get into the habit of trying to identify how to remove hardcoding on the refactor phases.

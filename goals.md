@@ -83,6 +83,17 @@ https://github.com/makersacademy/course/blob/main/week_outlines.md
   * Use a branch/PR/merge git workflow
   * Give and receive meaningful code review
 
-  
+A challenging week this one. Working with others is certainly a skill in it's own right. Everyone has their strengths and weakenesses.
 
+Github proved a bit of a headache but we made good use of fucntionality provided through the github ecosystem, so we employed branching, issues and the kanban. In addition we followed agile methodology adn ceremonies regarding our morning standups and retros.
+
+Again I met the goals
   
+## Week 6
+- Test-drive a simple Javascript program using Node.
+- Explain how asynchronous programming is different from synchronous, blocking programming.
+- Apply a coherent process to learn a new language.
+  
+  What a week, from no javascript to full on javascript.. I've bust out a full CLI app with the bowling challenge, not that I can remember all the syntax but it wasn't as bad as I thought it would be. The work that has preceded has set me up up well for this week
+
+  So I'd go as far to see I have exceeded my goals for this week.

@@ -130,4 +130,5 @@ I know how to make a workflow in Slack
 * https://github.com/nyahehnagi/takeaway-challenge
 * https://github.com/nyahehnagi/rps-challenge
 * https://github.com/nyahehnagi/chitter-challenge
+* https://github.com/nyahehnagi/bowling-challenge-ruby
 
