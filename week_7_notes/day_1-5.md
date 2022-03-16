@@ -22,3 +22,6 @@ Code that is executed out of order..
 ES6 included promises and helped stop callback "hell"
 
 can attack callbacks to this promise
+
+
+https://github.com/nyahehnagi/frontend-api-challenge

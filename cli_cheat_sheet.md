@@ -1,0 +1,1 @@
+`lsof -i:3030` view processes on a port
