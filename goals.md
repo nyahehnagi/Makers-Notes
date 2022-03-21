@@ -98,3 +98,16 @@ Again I met the goals
 
   So I'd go as far to see I have exceeded my goals for this week.
   
+## Week 7 
+-Test-drive a simple Javascript program running in a web browser, using modern JS build tools.
+-Use the DOM API to build a web user interface for this program.
+-Build a single-page web application fetching and updating remote data using JS.
+
+All good on the goals for week 7. Question is can I remember everthing! The weekend challenge with the front end of Chitter did cement my learning. It really is a matter of keeping on doing the programming. The more you do the more that sticks and the more you learn. It's an iterative process
+
+## Week 8/9
+
+- Learn and use React and the MERN stack.
+- Work effectively in a team
+- Build well designed code
+- Follow high quality engineering principles
